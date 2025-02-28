@@ -186,9 +186,3 @@ This documentation provides a complete guide to setting up, securing, and scalin
 
 ---
 
-### **Next Steps**
-1. ✅ Upload images to the `/images` folder in this repository.
-2. ✅ Test the system with additional sensors.
-3. ✅ Implement cloud hosting for better scalability.
-
----
