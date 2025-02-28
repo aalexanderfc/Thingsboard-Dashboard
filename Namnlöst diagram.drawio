@@ -44,7 +44,7 @@
           <mxGeometry x="30" y="-78" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="volYa2_RQa-Itepc3PtD-9" value="Nginx Reverse proxy" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.reverse_proxy;" vertex="1" parent="1">
-          <mxGeometry x="850" y="190" width="41" height="70" as="geometry" />
+          <mxGeometry x="844.5" y="200" width="41" height="70" as="geometry" />
         </mxCell>
         <mxCell id="volYa2_RQa-Itepc3PtD-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="volYa2_RQa-Itepc3PtD-7" target="volYa2_RQa-Itepc3PtD-5">
           <mxGeometry relative="1" as="geometry">
