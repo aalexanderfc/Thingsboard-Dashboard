@@ -6,6 +6,11 @@
 ## **Introduction**
 This repository documents the complete process of setting up a ThingsBoard dashboard to visualize IoT sensor data. It includes installation, configuration, troubleshooting, scalability considerations, and potential future improvements.
 
+## System Architecture
+The following diagram illustrates the flow of data from IoT devices to the ThingsBoard dashboard:
+
+![System Architecture](images/SystemArchitecture.png)
+
 ### **Features:**
 - ✅ **ThingsBoard Server** (running natively, not in Docker)
 - ✅ **ThingsBoard Gateway (tb-gateway)** (Docker-based)
