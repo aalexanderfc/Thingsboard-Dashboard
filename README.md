@@ -163,7 +163,6 @@ Here are screenshots showcasing the final dashboard:
 ### **4. Home Overview**
 ![Home Dashboard](images/home_dashboard.png)
 
-> *(Place these images inside an "images" folder in your GitHub repo.)*
 
 ---
 
@@ -177,10 +176,6 @@ This documentation provides a complete guide to setting up, securing, and scalin
 2. ✅ Test the system with additional sensors.
 3. ✅ Implement cloud hosting for better scalability.
 
----
-
-## **License**
-This project is licensed under the MIT License.
 
 ---
 
