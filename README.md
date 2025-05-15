@@ -6,7 +6,7 @@
 
 ## **Introduction**
 
-This repository provides a **concise overview** of the **Delta.Acandia** project. It documents the complete process of setting up a ThingsBoard dashboard to visualise IoT sensor data. It includes installation, configuration, troubleshooting, scalability considerations, and potential future improvements.
+This repository provides a **concise overview** of the **Delta.Acandia** project, showcasing how **ThingsBoard** is leveraged to unify and visualise multi‑vendor IoT data in a single, secure dashboard. The document highlights the project’s purpose, architecture, key challenges, scalability roadmap, and future enhancements—distilling the essentials without delving into low‑level setup details.
 
 ---
 
